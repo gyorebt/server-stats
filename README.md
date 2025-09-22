@@ -7,7 +7,7 @@ A simple Bash script to analyze basic server performance statistics.
 - Memory usage (percent + MB)
 - Disk usage
 - Top 5 CPU and memory processes
-- Extra info: OS version, uptime, load average, users, failed logins
+- Extra info: OS version, uptime, users, failed logins
 
 ## Requirements
 - Bash shell
