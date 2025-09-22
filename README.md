@@ -1,6 +1,7 @@
 # Server Stats Script
 
 A simple Bash script to analyze basic server performance statistics.
+https://roadmap.sh/projects/server-stats
 
 ## Features
 - CPU usage
